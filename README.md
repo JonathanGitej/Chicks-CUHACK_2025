@@ -1,4 +1,2 @@
 # CUHACK_2025
-Demo of the CUHACK submission
-
-#Hi, this is Atik signing in!
+Oh Canada! is a browser extension that is able to determine whether a book is made by Canadian authors and if it is not it is able to offer Canadian alternatives which allow you to shop Canadian.
